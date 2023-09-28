@@ -1,6 +1,6 @@
-# Dictionary App
+# 30 Days of JavaScript - Project 5: Dictionary App
 
-This is a simple Dictionary web application that allows you to search for word definitions and hear their pronunciation.
+A simple Dictionary Web App that allows you to search for word definitions and hear their pronunciation. This project is developed as part of the 30 Days of JavaScript challenge.
 
 ## Preview
 
